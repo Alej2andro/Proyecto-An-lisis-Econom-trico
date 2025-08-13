@@ -5,11 +5,11 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
 📘 Contenido del Análisis Econométrico
 I. Creación de Dataset
 
-II Metodología de análisis estadístico para modelar regresión lineal múltiple : 
+II Metodología de análisis estadístico para modelar regresión lineal múltiple
  1) Diagnosis hipotesis iniciales :
  a) normalidad
  b) linealidad
- c) Igual varianza o homocedasticidad
+ c) Analisis de homogenidad de varianza (homoscedasticidad)
  d) observaciones independientes
  e) Ausencia multicolinealidad
  2) Construcción Modelo de Regresión lineal Multiple y R²
