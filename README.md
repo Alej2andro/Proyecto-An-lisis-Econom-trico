@@ -27,9 +27,9 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
 
 📊 Modelado estadístico y pruebas econométricas : 
 - import statsmodels.api as sm
--from statsmodels.formula.api import ols
--from statsmodels.stats.stattools import durbin_watson
--from statsmodels.stats.outliers_influence import variance_inflation_factor
+- from statsmodels.formula.api import ols
+- from statsmodels.stats.stattools import durbin_watson
+- from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 
 📐 Pruebas estadísticas y distribuciones : 
