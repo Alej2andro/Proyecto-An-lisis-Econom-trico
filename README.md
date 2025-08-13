@@ -4,7 +4,7 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
 
 
 
-### 📘 Contenido del Análisis Econométrico.
+### 📘 Contenido del Análisis Econométrico
 
 #### I. Creación de Dataset
 
@@ -23,7 +23,7 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
  7) Análisis de ANOVA
  8) Evalución de ajuste
     
- #### III Conclusión Final del Análisis Econométrico.
+ #### III Conclusión Final del Análisis Econométrico
 
 
 
@@ -46,7 +46,7 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
 🤖 Modelado predictivo y métricas
 - from sklearn.linear_model import LinearRegression
 - from sklearn.metrics import r2_score
-- 
+  
 📊 Visualización 
 - import matplotlib.pyplot as plt
 - import matplotlib.image as mpimg
