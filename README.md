@@ -33,38 +33,38 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
 
 
 📐 Pruebas estadísticas y distribuciones : 
-from scipy.stats import f, t, norm
+- from scipy.stats import f, t, norm
 
 
 🤖 Modelado predictivo y métricas : 
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import r2_score
+- from sklearn.linear_model import LinearRegression
+- from sklearn.metrics import r2_score
 
 #🧮 Manipulación numérica : 
-import numpy as np
+- import numpy as np
 
 
-📊 Visualización : 
-import matplotlib.pyplot as plt
-import matplotlib.image as mpimg
-import matplotlib
-import seaborn as sns
+📊 Visualización 
+- import matplotlib.pyplot as plt
+- import matplotlib.image as mpimg
+- import matplotlib
+- import seaborn as sns
 
 
 🎨 Visualización en terminal con Rich : 
-from rich import print
-from rich.console import Console
-from rich.table import Table
-from rich.panel import Panel
-from rich.markdown import Markdown as RichMarkdown
-from rich.align import Align
-from rich import box
+- from rich import print
+- from rich.console import Console
+- from rich.table import Table
+- from rich.panel import Panel
+- from rich.markdown import Markdown as RichMarkdown
+- from rich.align import Align
+- from rich import box
 
 
 🧠 Fórmulas y matrices de diseño : 
-from patsy import dmatrices
+- from patsy import dmatrices
 
 
 📎 Visualización en Jupyter Notebook : 
-from IPython.display import display, Markdown, Latex
+- from IPython.display import display, Markdown, Latex
     
