@@ -28,7 +28,7 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
 
 
  
-### 🧰 Bibliotecas utilizadas en el análisis econométrico
+### 🧰 Bibliotecas utilizadas 
 
 📊 Modelado estadístico y pruebas econométricas
 - import statsmodels.api as sm
