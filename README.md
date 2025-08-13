@@ -1,4 +1,4 @@
-🎯 Objetivo del Análisis Econométrico
+🎯 Objetivo del Análisis Econométrico : 
 Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género en la determinación del ingreso mensual, mediante la comparación estructural entre modelos de regresión lineal múltiple con y sin dicha variable. El análisis busca establecer si Género tiene un efecto estadísticamente significativo sobre el ingreso, incluso al controlar por otras variables económicas relevantes, y validar su incorporación en estudios orientados a comprender diferencias estructurales en la distribución del ingreso.
 
 
@@ -23,7 +23,7 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
  7) Análisis de ANOVA
  8) Evalución de ajuste
     
- III Conclusión Final del Análisis Econométrico
+ III Conclusión Final del Análisis Econométrico.
 
 
 
