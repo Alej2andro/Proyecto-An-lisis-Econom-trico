@@ -2,7 +2,8 @@
 Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género en la determinación del ingreso mensual, mediante la comparación estructural entre modelos de regresión lineal múltiple con y sin dicha variable. El análisis busca establecer si Género tiene un efecto estadísticamente significativo sobre el ingreso, incluso al controlar por otras variables económicas relevantes, y validar su incorporación en estudios orientados a comprender diferencias estructurales en la distribución del ingreso.
 
 
-📘 Contenido del Análisis Econométrico
+📘 Contenido del Análisis Econométrico.
+
 I. Creación de Dataset
 
 II Metodología de análisis estadístico para modelar regresión lineal múltiple
