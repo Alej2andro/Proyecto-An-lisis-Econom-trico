@@ -23,7 +23,7 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
     
  III Conclusión Final del Análisis Econométrico
 
-🧰 Bibliotecas utilizadas en el análisis econométrico
+🧰 Bibliotecas utilizadas en el análisis econométrico : 
 
 📊 Modelado estadístico y pruebas econométricas
 import statsmodels.api as sm
