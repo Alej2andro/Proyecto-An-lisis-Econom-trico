@@ -23,27 +23,25 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
     
  III Conclusión Final del Análisis Econométrico
 
-🧰 Bibliotecas utilizadas en el análisis econométrico.
+🧰 Bibliotecas utilizadas en el análisis econométrico
 
-📊 Modelado estadístico y pruebas econométricas : 
+📊 Modelado estadístico y pruebas econométricas
 - import statsmodels.api as sm
 - from statsmodels.formula.api import ols
 - from statsmodels.stats.stattools import durbin_watson
 - from statsmodels.stats.outliers_influence import variance_inflation_factor
 
 
-📐 Pruebas estadísticas y distribuciones : 
+📐 Pruebas estadísticas y distribuciones 
 - from scipy.stats import f, t, norm
 
-
-🤖 Modelado predictivo y métricas : 
-- from sklearn.linear_model import LinearRegression
-- from sklearn.metrics import r2_score
-
-#🧮 Manipulación numérica : 
+🧮 Manipulación numérica
 - import numpy as np
 
-
+🤖 Modelado predictivo y métricas
+- from sklearn.linear_model import LinearRegression
+- from sklearn.metrics import r2_score
+- 
 📊 Visualización 
 - import matplotlib.pyplot as plt
 - import matplotlib.image as mpimg
@@ -51,7 +49,7 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
 - import seaborn as sns
 
 
-🎨 Visualización en terminal con Rich : 
+🎨 Visualización en terminal con Rich
 - from rich import print
 - from rich.console import Console
 - from rich.table import Table
@@ -61,10 +59,10 @@ II Metodología de análisis estadístico para modelar regresión lineal múltip
 - from rich import box
 
 
-🧠 Fórmulas y matrices de diseño : 
+🧠 Fórmulas y matrices de diseño 
 - from patsy import dmatrices
 
 
-📎 Visualización en Jupyter Notebook : 
+📎 Visualización en Jupyter Notebook 
 - from IPython.display import display, Markdown, Latex
     
