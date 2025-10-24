@@ -25,9 +25,7 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
     
  #### III Conclusión Final del Análisis Econométrico
 
-
-
- 
+### 📎 Ambiente de trabajo Jupyter Lab 
 ### 🧰 Bibliotecas utilizadas 
 
 📊 Modelado estadístico y pruebas econométricas
