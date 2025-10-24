@@ -66,8 +66,6 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
 
 🧠 Fórmulas y matrices de diseño 
 - from patsy import dmatrices
-
-
 📎 Ambiente de trabajo Jupyter Lab 
 - from IPython.display import display, Markdown, Latex
     
