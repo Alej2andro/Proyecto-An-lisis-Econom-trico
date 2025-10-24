@@ -68,6 +68,6 @@ Evaluar rigurosamente el aporte explicativo de la variable dicotómica Género e
 - from patsy import dmatrices
 
 
-📎 Visualización en Jupyter Notebook 
+📎 Ambiente de trabajo Jupyter Lab 
 - from IPython.display import display, Markdown, Latex
     
